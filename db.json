@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "TheBatman", "link":
+      "https://vidshar.org/embed-mxgy6mcxk835.html"
+    },
+    {
+      "id": 2,
+      "name": "SpiderManNWH",
+      "link": "https://vidshar.org/embed-n91uxcheaukk.html"
+    }
+  ],
+
+  "series": [
+    {
+      "id": 1,
+      "name": "TheProtector",
+      "link": 
+      {
+      "s1e1":"https://vidshar.org/embed-lbvzcp3lp7db.html",
+      "s1e2":"https://vidshar.org/embed-2vve13rbuhlo.html",
+      "s1e3":"https://vidshar.org/embed-117p3vis8uh1.html",
+      "s1e4":"https://vidshar.org/embed-wfmcef2k2io4.html",
+      "s1e5":"https://vidshar.org/embed-7by17x3ml5ff.html",
+      "s1e6":"https://vidshar.org/embed-03t5oz7uarxd.html",
+      "s1e7":"https://vidshar.org/embed-ie35f77klywz.html",
+      "s1e8":"https://vidshar.org/embed-s8j7p3bhmar2.html",
+      "s1e9":"https://vidshar.org/embed-n7yq4022wdp0.html",
+      "s1e10":"https://vidshar.org/embed-gln1t30syxds.html"
+      }
+    }
+  ]
+}
