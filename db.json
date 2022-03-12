@@ -1,48 +1,60 @@
-[
-  {
-    "id": 1,
-    "name": "TheProtector",
-    "link": {
-      "s1e1": "https://vidshar.org/embed-lbvzcp3lp7db.html",
-      "s1e2": "https://vidshar.org/embed-2vve13rbuhlo.html",
-      "s1e3": "https://vidshar.org/embed-117p3vis8uh1.html",
-      "s1e4": "https://vidshar.org/embed-wfmcef2k2io4.html",
-      "s1e5": "https://vidshar.org/embed-7by17x3ml5ff.html",
-      "s1e6": "https://vidshar.org/embed-03t5oz7uarxd.html",
-      "s1e7": "https://vidshar.org/embed-ie35f77klywz.html",
-      "s1e8": "https://vidshar.org/embed-s8j7p3bhmar2.html",
-      "s1e9": "https://vidshar.org/embed-n7yq4022wdp0.html",
-      "s1e10": "https://vidshar.org/embed-gln1t30syxds.html"
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "TheBatman", "link":
+      "https://vidshar.org/embed-mxgy6mcxk835.html"
+    },
+    {
+      "id": 2,
+      "name": "SpiderManNWH",
+      "link": "https://vidshar.org/embed-n91uxcheaukk.html"
     }
-  },
-  {
-    "id": 2,
-    "name": "PrisonBreak",
-    "link": {
-      "s1e1": "https://vidshar.org/embed-by0f1zo76ub0.html",
-      "s1e2": "https://vidshar.org/embed-wuumq1nmf3zb.html",
-      "s1e3": "https://vidshar.org/embed-86s9aercqfqb.html",
-      "s1e4": "https://vidshar.org/embed-g12ww7e2zhc0.html",
-      "s1e5": "https://vidshar.org/embed-cib4y4jt7kle.html",
-      "s1e6": "https://vidshar.org/embed-tbqgxkpao2v4.html",
-      "s1e7": "https://vidshar.org/embed-miq1bcns4h4w.html",
-      "s1e8": "https://vidshar.org/embed-mqzbjdqdbx8w.html",
-      "s1e9": "https://vidshar.org/embed-2b3mcoglkv5i.html",
-      "s1e10": "https://vidshar.org/embed-4334c2rud6lb.html"
-    }
-  },
-  {
+  ],
+
+  "series": [
+    {
+      "id": 1,
+      "name": "TheProtector",
+      "link": {
+        "s1e1":"https://vidshar.org/embed-lbvzcp3lp7db.html",
+        "s1e2":"https://vidshar.org/embed-2vve13rbuhlo.html",
+        "s1e3":"https://vidshar.org/embed-117p3vis8uh1.html",
+        "s1e4":"https://vidshar.org/embed-wfmcef2k2io4.html",
+        "s1e5":"https://vidshar.org/embed-7by17x3ml5ff.html",
+        "s1e6":"https://vidshar.org/embed-03t5oz7uarxd.html",
+        "s1e7":"https://vidshar.org/embed-ie35f77klywz.html",
+        "s1e8":"https://vidshar.org/embed-s8j7p3bhmar2.html",
+        "s1e9":"https://vidshar.org/embed-n7yq4022wdp0.html",
+        "s1e10":"https://vidshar.org/embed-gln1t30syxds.html" }
+    },
+    {
+      "id": 2,
+      "name": "PrisonBreak",
+      "link": {
+        "s1e1":"https://vidshar.org/embed-by0f1zo76ub0.html",
+        "s1e2":"https://vidshar.org/embed-wuumq1nmf3zb.html",
+        "s1e3":"https://vidshar.org/embed-86s9aercqfqb.html",
+        "s1e4":"https://vidshar.org/embed-g12ww7e2zhc0.html",
+        "s1e5":"https://vidshar.org/embed-cib4y4jt7kle.html",
+        "s1e6":"https://vidshar.org/embed-tbqgxkpao2v4.html",
+        "s1e7":"https://vidshar.org/embed-miq1bcns4h4w.html",
+        "s1e8":"https://vidshar.org/embed-mqzbjdqdbx8w.html",
+        "s1e9":"https://vidshar.org/embed-2b3mcoglkv5i.html",
+        "s1e10":"https://vidshar.org/embed-4334c2rud6lb.html" }
+    },
+    {
     "id": 3,
     "name": "StrangerThings",
     "link": {
-      "s1e1": "https://vidshar.org/embed-o34522q2tt4g.html",
-      "s1e2": "https://vidshar.org/embed-k8sx9b1kx93h.html",
-      "s1e3": "https://vidshar.org/embed-glu7fh76jlh4.html",
-      "s1e4": "https://vidshar.org/embed-gdzbdlh0l94m.html",
-      "s1e5": "https://vidshar.org/embed-m7j784gcamdl.html",
-      "s1e6": "https://vidshar.org/embed-4cat6m5wxdkl.html",
-      "s1e7": "https://vidshar.org/embed-7pldfgfmonob.html",
-      "s1e8": "https://vidshar.org/embed-uof60qr7pfwj.html"
-    }
+      "s1e1":"https://vidshar.org/embed-o34522q2tt4g.html",
+      "s1e2":"https://vidshar.org/embed-k8sx9b1kx93h.html",
+      "s1e3":"https://vidshar.org/embed-glu7fh76jlh4.html",
+      "s1e4":"https://vidshar.org/embed-gdzbdlh0l94m.html",
+      "s1e5":"https://vidshar.org/embed-m7j784gcamdl.html",
+      "s1e6":"https://vidshar.org/embed-4cat6m5wxdkl.html",
+      "s1e7":"https://vidshar.org/embed-7pldfgfmonob.html",
+      "s1e8":"https://vidshar.org/embed-uof60qr7pfwj.html" }
   }
-]
+  ]
+}
