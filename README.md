@@ -2,6 +2,7 @@
 
 Streak API lets you add latest Movies & Tv Shows To your project for free
 if you need any movie or tv show to be added be add me on discord : moncef#0580
+[demo](https://my-json-server.typicode.com/moncxxf/streak-api/)
 
 ## How to use
 
